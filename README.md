@@ -32,12 +32,17 @@ $ pip install pika
 
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
-RabbitMQ/2..png at main · vioas/RabbitMQ (github.com)
-RabbitMQ/3..png at main · vioas/RabbitMQ (github.com)
-RabbitMQ/4..png at main · vioas/RabbitMQ (github.com)
-RabbitMQ/5..png at main · vioas/RabbitMQ (github.com)
-RabbitMQ/6..png at main · vioas/RabbitMQ (github.com)
-RabbitMQ/7..png at main · vioas/RabbitMQ (github.com)
+https://github.com/vioas/RabbitMQ/blob/main/2..png
+
+https://github.com/vioas/RabbitMQ/blob/main/3..png
+
+https://github.com/vioas/RabbitMQ/blob/main/4..png
+
+https://github.com/vioas/RabbitMQ/blob/main/5..png
+
+https://github.com/vioas/RabbitMQ/blob/main/6..png
+
+https://github.com/vioas/RabbitMQ/blob/main/7..png
 
 ### Задание 3. Подготовка HA кластера
 Используя Vagrant или VirtualBox, создайте вторую виртуальную машину и установите RabbitMQ. Добавьте в файл hosts название и IP-адрес каждой машины, чтобы машины могли видеть друг друга по имени.
